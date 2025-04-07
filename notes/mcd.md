@@ -17,11 +17,12 @@ Faisant partie de la boîte à outil Merise, le MCD décrit les données utilis�
 
 **Cardinalités** :
 
-| Notation | Signification                            |
-| -------- | ---------------------------------------- |
-| (0,1)    | Zéro ou un (relation optionnelle)        |
-| (1,1)    | Exactement un (relation obligatoire)     |
-| (0,n)    | Zéro ou plusieurs (optionnelle multiple) |
-| (1,n)    | Un ou plusieurs (obligatoire multiple)   |
+| Notation | Signification                                   |
+| -------- | ----------------------------------------------- |
+| (0,1)    | Zéro ou un (relation optionnelle)               |
+| (1,1)    | Exactement un (relation obligatoire)            |
+| (0,n)    | Zéro ou plusieurs (optionnelle multiple)        |
+| (1,n)    | Un ou plusieurs (relation obligatoire multiple) |
+| (n,m)    | Plusieurs à plusieurs (relation multiple)       |
 
 Le MCD est utilisé assez tôt en conception de base de données, le **MCD** sert de base de travail et sera ensuite utilisé par les autres outils de **Merise**, à savoir le **MLD** et le **MPD**. Le **MCD** constitue une étape très importante de la modélisation. Si cette tâche est mal réalisée, des erreurs en cascade se produiront et rejaillairont sur le **MLD**, le **MPD** et sur la base de données finale.
