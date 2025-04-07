@@ -1,4 +1,4 @@
-# MERISE
+# MERISE (Méthode Étude Réalisation Informatique Système Entreprise)
 
 ---
 
@@ -42,7 +42,7 @@ Beaucoup de documentation, mais moins d'erreurs lors du code comparé à d'autre
 
 La méthode d'analyse et de conception propose une démarche articulée simultanément selon 3 axes pour _hiérarchiser_ les préoccupations et les questions auxquelles répondre lors de la conduite d'un projet.
 
-![MERISE](./images/MERISE.svg.png)
+![MERISE](./images/figure3-4.png)
 
 ### Cycle de vie
 
