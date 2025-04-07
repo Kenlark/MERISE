@@ -97,7 +97,3 @@ Elles servent à :
 | Complète           | Tous les attributs de la clé sont nécessaires |
 | Partielle          | Une partie de la clé suffit                   |
 | Transitive         | Dépendance indirecte via un autre attribut    |
-
----
-
-Besoin d'un exemple visuel ou MCD/MLD en plus ? Demande-moi !
