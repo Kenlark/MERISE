@@ -35,7 +35,7 @@ Les formes normales permettent de structurer correctement les bases de données 
 
 ## 🔹 2FN – Deuxième Forme Normale
 
-> **Une table est en 2FN si elle est en 1FN ET que tous les champs dépendent de toute la clé primaire.**
+**Une table est en 2FN si elle est en 1FN ET que tous les champs dépendent de toute la clé primaire.**
 
 ### ✅ À respecter :
 
@@ -60,7 +60,7 @@ Créer deux tables :
 
 ## 🔹 3FN – Troisième Forme Normale
 
-> **Une table est en 3FN si elle est en 2FN ET que tous les champs dépendent directement de la clé primaire (pas via un autre champ).**
+**Une table est en 3FN si elle est en 2FN ET que tous les champs dépendent directement de la clé primaire (pas via un autre champ).**
 
 ### ✅ À respecter :
 

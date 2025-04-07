@@ -77,3 +77,5 @@ Dans l'idéal, le **MCD** et le **MCT** d'une entreprise sont stables, ils ne ch
 - [MCD](./notes/mcd.md)
 - [MLD](./notes/mld.md)
 - [MPD](./notes/mpd.md)
+- [Formes-Normales](./notes/formes-normales.md)
+- [Dependance-Fonctionnelle](./notes/dependance-fonctionnelle.md)
