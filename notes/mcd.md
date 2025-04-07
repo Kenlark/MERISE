@@ -12,8 +12,8 @@ Faisant partie de la boîte à outil Merise, le MCD décrit les données utilis�
 
 - Les **entités** (1 rectangle = 1 objet)
 - Les **propriétés** (la liste des données de l'entité)
-- Les associations qui expliquent et précisent comment les entités sont reliées entre elles (les ovales avec leurs "pattes" qui se rattachent aux entités)
-- Les **cardinalité** (les petits chiffres au dessus des "pattes")
+- Les **relations** qui expliquent et précisent comment les entités sont reliées entre elles
+- Les **cardinalité** (les petits chiffres au dessus des "lignes")
 
 **Cardinalités** :
 
