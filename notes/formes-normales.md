@@ -6,7 +6,7 @@ Les formes normales permettent de structurer correctement les bases de données 
 
 ## 🔹 1FN – Première Forme Normale
 
-> **Une table est en 1FN si chaque case contient une seule valeur "atomique".**
+**Une table est en 1FN si chaque case contient une seule valeur "atomique".**
 
 ### ✅ À respecter :
 
